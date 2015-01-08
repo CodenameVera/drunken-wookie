@@ -1,6 +1,15 @@
 site_name: My Docs
 pages:
-- [index.md, home]
+- ['tree:ActionBuilder Overview'] 
+- ['tree:Building an Action']
+- ['tree:Completing an Action']
+- ['tree:Actions Page']
+- ['tree:Testing an Action']
+- ['tree:Content Masking']
+- ['tree:Countdown Ticker Actions (Monetate-Built)']
+- ['tree:Email Acquisition Lightboxes']
+- ['tree:Lightboxes']
+- ['tree:Types of CSS Selectors']
 theme: readthedocs
 mkdocs_extensions:
     - mkdocs_tree
