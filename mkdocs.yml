@@ -1,4 +1,15 @@
 site_name: My Docs
+pages:
+- [ActionBuilder Overview.markdown, ActionBuilder Overview]    
+- [Building an Action.markdown, Building an Action]
+- [Completing an Action.markdown, Completing an Action]
+- [Actions Page.markdown, The Actions Page]
+- [Testing an Action.markdown, Testing an Action]
+- [Content Masking.markdown, Content Masking]
+- [Countdown Ticker Actions (Monetate-Built).markdown, Countdown Ticker Actions]
+- [Email Acquisition Lightboxes.markdown, Email Lightbox Actions]
+- [Lightboxes.markdown, Lightboxes]
+- [Types of CSS Selectors.markdown, CSS Selectors]
 theme: readthedocs
 
 
