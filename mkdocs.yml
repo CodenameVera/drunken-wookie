@@ -1,4 +1,6 @@
 site_name: My Docs
+mkdocs_extensions:
+    - mkdocs_tree
 pages:
 - ['tree:ActionBuilder Overview'] 
 - ['tree:Building an Action']
@@ -11,8 +13,7 @@ pages:
 - ['tree:Lightboxes']
 - ['tree:Types of CSS Selectors']
 theme: readthedocs
-mkdocs_extensions:
-    - mkdocs_tree
+
 
 
 
