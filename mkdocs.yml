@@ -1,6 +1,9 @@
 site_name: My Docs
 theme: readthedocs
 
+- [index.md, Home]
+- [about.md, About]
+
 
 
 
