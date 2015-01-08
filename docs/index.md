@@ -14,4 +14,13 @@ For full documentation visit [mkdocs.org](http://mkdocs.org).
     mkdocs.yml    # The configuration file.
     docs/
         index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+        ActionBuilder Overview.markdown     # Other markdown pages, images and other files.
+        Building an Action.markdown
+        Completing an Action.markdown
+        Actions Page.markdown
+        Testing an Action.markdown
+        Content Masking.markdown
+        Countdown Ticker Actions (Monetate-Built).markdown
+        Email Acquisition Lightboxes.markdown
+        Lightboxes.markdown
+        Types of CSS Selectors.markdown
