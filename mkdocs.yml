@@ -2,8 +2,8 @@ site_name: My Docs
 pages:
 - [index.md, home]
 theme: readthedocs
-
-
+mkdocs_extensions:
+    - mkdocs_tree
 
 
 
