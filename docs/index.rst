@@ -3,8 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Monetate KB 2.0!
+Monetate Actions
 =================================
+
+Here's where you'll find everything you need to know about Monetate actions and the tools you can use to build them. 
 
 Contents:
 
