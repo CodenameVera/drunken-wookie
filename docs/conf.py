@@ -203,10 +203,10 @@ latex_elements = {
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
-latex_documents = [
-  ('index', 'IRCDD.tex', u'IRCDD Documentation',
-   u'Michael J. Harrison, Daniel McGinnis, Kevin K. Rothenberger, Roman Senyszyn, Kiril Zvezdarov', 'manual'),
-]
+#latex_documents = [
+  #('index', 'IRCDD.tex', u'IRCDD Documentation',
+  # u'Michael J. Harrison, Daniel McGinnis, Kevin K. Rothenberger, Roman Senyszyn, Kiril Zvezdarov', 'manual'),
+#]
 
 # The name of an image file (relative to this directory) to place at the top of
 # the title page.
@@ -247,11 +247,11 @@ man_pages = [
 # Grouping the document tree into Texinfo files. List of tuples
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
-texinfo_documents = [
-  ('index', 'IRCDD', u'IRCDD Documentation',
-   u'Michael J. Harrison, Daniel McGinnis, Kevin K. Rothenberger, Roman Senyszyn, Kiril Zvezdarov', 'IRCDD', 'One line description of project.',
-   'Miscellaneous'),
-]
+#texinfo_documents = [
+ # ('index', 'IRCDD', u'IRCDD Documentation',
+  # u'Michael J. Harrison, Daniel McGinnis, Kevin K. Rothenberger, Roman Senyszyn, Kiril Zvezdarov', 'IRCDD', 'One line description of project.',
+  # 'Miscellaneous'),
+#]
 
 # Documents to append as an appendix to all manuals.
 #texinfo_appendices = []
@@ -265,8 +265,8 @@ texinfo_documents = [
 # If true, do not generate a @detailmenu in the "Top" node's menu.
 #texinfo_no_detailmenu = False
 
-intersphinx_mapping = {
-        'pymongo': ('http://api.mongodb.org/python/current/', None),
-        'python' : ('http://docs.python.org/', None),
-	'ircdd'  : ('../bin/', None),
+#intersphinx_mapping = {
+        #'pymongo': ('http://api.mongodb.org/python/current/', None),
+       # 'python' : ('http://docs.python.org/', None),
+#	'ircdd'  : ('../bin/', None),
 }
