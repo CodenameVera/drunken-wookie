@@ -1,6 +1,0 @@
-[template]
-src = "rethinkdb.tmpl"
-
-dest = "/etc/rethinkdb/rethinkdb.conf"
-
-keys = [ "/services/rethinkdb" ]
