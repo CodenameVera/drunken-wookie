@@ -16,6 +16,11 @@ Contents:
    buildinganaction
    completinganaction
    actionspage
+   testinganaction
+   lightbox
+   emailaquisitionlightbox
+   typesofcssselectors
+   contentmasking
 
 
 
