@@ -51,8 +51,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'IRCDD'
-copyright = u'2014, Michael J. Harrison, Daniel McGinnis, Kevin K. Rothenberger, Roman Senyszyn, Kiril Zvezdarov'
+project = u'Monetate KB 2.0'
+copyright = u'2015 Monetate Inc'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -184,7 +184,7 @@ html_static_path = ['_static']
 #html_file_suffix = None
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'IRCDDdoc'
+htmlhelp_basename = 'Monetate KB 2.0'
 
 
 # -- Options for LaTeX output ---------------------------------------------
