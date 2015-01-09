@@ -11,9 +11,9 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   actionspage
    buildinganaction
-   completinganaction.rst
+   completinganaction
+   actionspage
 
 
 
