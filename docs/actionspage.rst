@@ -7,9 +7,12 @@
 .. raw:: html
 
    </div>
-
+============
 Actions Page
 ============
+
+Where to Find Actions 
+=====================
 
 You can access the actions page under the **Components** tab in the
 navbar. Actions built by a Monetate engineer are denoted by the Monetate
@@ -19,14 +22,10 @@ mark.
 .. figure:: https://s3.amazonaws.com/elearning.monetate.net/images/src/action_builder/i23.png
    :alt: Actions List Page
 
-   Actions List Page
-
 The following icons may be displayed under the action name.
 
 .. figure:: https://s3.amazonaws.com/elearning.monetate.net/images/src/action_builder/i28.png
    :alt: Actions List Page
-
-   Actions List Page
 
 -  Sub-category: Denoted by a blue box containing a blue font.
    Sub-categories are assigned in ActionBuilder.
@@ -37,8 +36,6 @@ The following icons may be displayed under the action name.
 
 .. figure:: https://s3.amazonaws.com/elearning.monetate.net/images/src/action_builder/i24.png
    :alt: Actions List Page
-
-   Actions List Page
 
 -  Create Campaign With Action: Denoted by the plus (+) icon
 -  Edit Action: Denoted by the pencil icon
