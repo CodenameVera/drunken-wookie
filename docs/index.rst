@@ -9,7 +9,7 @@ Welcome to Monetate KB 2.0!
 Contents:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    buildinganaction
    completinganaction
