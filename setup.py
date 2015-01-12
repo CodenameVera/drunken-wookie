@@ -7,7 +7,7 @@ except ImportError as e:
 finally:
     from setuptools import setup, find_packages
 
-setup(name="Monetate KB 2.0",
+setup(name="monetatekb2",
       version="alpha",
       description="Distributed IRC Daemon",
       url="github.com/CodenameVera/drunken-wookie",
