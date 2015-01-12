@@ -1,21 +1,24 @@
 #! /usr/bin/env python2.7
-try:
-    from setuptools import setup, find_packages
-except ImportError as e:
-    import ez_setup
-    ez_setup.use_setuptools()
-finally:
-    from setuptools import setup, find_packages
-
-setup(name="monetatekb2",
-      version="alpha",
-      description="Distributed IRC Daemon",
-      url="github.com/CodenameVera/drunken-wookie",
-      license="GPL v3.0 or later",
-      install_requires=["twisted", "pyyaml", "pynsq==0.6.4",
-                        "tornado", "requests", "rethinkdb"],
-      setup_requires=["flake8", "nose", "mock", "responses"],
-      packages=find_packages(),
-      scripts=["bin/ircdd.sh", ],
-      test_suite="nosetests",
-      )
+ try:
+     from setuptools import setup, find_packages
+ except ImportError as e:
+     import ez_setup
+     ez_setup.use_setuptools()
+ finally:
+     from setuptools import setup, find_packages
+ 
+-setup(name="ircdd",
++setup(name="Monetate KB 2.0",
+       version="alpha",
+-      description="Distributed IRC Daemon",
+-      url="github.com/kzvezdarov/ircdd",
++      description="Monetate kb 2.0",
++      url="github.com/CodenameVera/drunken-wookie",
+       license="GPL v3.0 or later",
+       install_requires=["twisted", "pyyaml", "pynsq==0.6.4",
+                         "tornado", "requests", "rethinkdb"],
+       setup_requires=["flake8", "nose", "mock", "responses"],
+       packages=find_packages(),
+       scripts=["bin/ircdd.sh", ],
+       test_suite="nosetests",
+       )
