@@ -16,6 +16,5 @@ setup(name="ircdd",
                         "tornado", "requests", "rethinkdb"],
       setup_requires=["flake8", "nose", "mock", "responses"],
       packages=find_packages(),
-      scripts=["bin/ircdd.sh", ],
       test_suite="nosetests",
       )
