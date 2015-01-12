@@ -235,7 +235,7 @@ latex_elements = {
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'ircdd', u'IRCDD Documentation',
+    ('index',
      [u'Michael J. Harrison, Daniel McGinnis, Kevin K. Rothenberger, Roman Senyszyn, Kiril Zvezdarov'], 1)
 ]
 
