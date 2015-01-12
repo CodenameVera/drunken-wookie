@@ -7,10 +7,10 @@ except ImportError as e:
 finally:
     from setuptools import setup, find_packages
 
-setup(name="ircdd",
+setup(name="Monetate KB 2.0",
       version="alpha",
-      description="Distributed IRC Daemon",
-      url="github.com/kzvezdarov/ircdd",
+      description="Monetate kb 2.0",
+      url="github.com/CodenameVera/drunken-wookie",
       license="GPL v3.0 or later",
       install_requires=["twisted", "pyyaml", "pynsq==0.6.4",
                         "tornado", "requests", "rethinkdb"],
