@@ -10,11 +10,12 @@ finally:
 setup(name="ircdd",
       version="alpha",
       description="Distributed IRC Daemon",
-      url="github.com/CodenameVera/drunken-wookie",
+      url="github.com/kzvezdarov/ircdd",
       license="GPL v3.0 or later",
       install_requires=["twisted", "pyyaml", "pynsq==0.6.4",
                         "tornado", "requests", "rethinkdb"],
       setup_requires=["flake8", "nose", "mock", "responses"],
       packages=find_packages(),
+      scripts=["bin/ircdd.sh", ],
       test_suite="nosetests",
       )
