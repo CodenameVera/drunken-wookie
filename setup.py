@@ -9,7 +9,7 @@ finally:
 
 setup(name="Monetate KB 2.0",
       version="alpha",
-      description="Monetate kb 2.0",
+      description="Distributed IRC Daemon",
       url="github.com/CodenameVera/drunken-wookie",
       license="GPL v3.0 or later",
       install_requires=["twisted", "pyyaml", "pynsq==0.6.4",
